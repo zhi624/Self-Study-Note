@@ -103,7 +103,14 @@ Find **Material Property Override**
 <img width="1749" height="1179" alt="image" src="https://github.com/user-attachments/assets/2a19ebbb-2904-41c1-adb3-676f036642c7" />  
 
 Then activate **Displacement Scaling** option
-![Uploading image.png…]()
+<img width="843" height="684" alt="image" src="https://github.com/user-attachments/assets/1b773a34-cf99-4322-be1e-cd4cc028c6db" />  
+
+Adjust the **Magnitude** valuw to conctrol the displacement affect strength.
+<img width="2511" height="1449" alt="image" src="https://github.com/user-attachments/assets/b1e675e6-1754-42e5-936f-47e76ba7ed3b" />
+<img width="2559" height="1539" alt="image" src="https://github.com/user-attachments/assets/4f323476-8a87-4e62-975a-a73ef21a7ec9" />
+
+
+
 
 
 
